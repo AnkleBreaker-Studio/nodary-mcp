@@ -2,9 +2,9 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "ai.nodary/nodary",
   "title": "Nodary",
-  "description": "Linked-document workspace for teams: AI agents read and write docs, sheets, boards and reviews.",
+  "description": "Linked team workspace: AI agents read and write docs, wikis, sheets, diagrams, boards and reviews.",
   "version": "1.2.0",
-  "websiteUrl": "https://nodary.ai/docs/mcp",
+  "websiteUrl": "https://nodary.ai",
   "icons": [
     {
       "src": "https://nodary.ai/brand/nodary-mark-96.png",

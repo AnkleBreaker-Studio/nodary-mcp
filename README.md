@@ -10,6 +10,8 @@
 
 **This is a hosted server: there is no code to install or run.** Nodary's remote [Model Context Protocol](https://modelcontextprotocol.io) server is operated by AnkleBreaker Studio at `https://nodary.ai/api/mcp`, and its source code is not public. This repository documents how to connect to it and holds its registry metadata ([`server.json`](server.json)).
 
+Listed in the official MCP Registry as `ai.nodary/nodary`: https://registry.modelcontextprotocol.io/v0.1/servers/ai.nodary%2Fnodary/versions/latest
+
 Setup guides on nodary.ai, one per client:
 
 | Client | Guide |
