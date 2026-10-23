@@ -1,0 +1,31 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "ai.nodary/nodary",
+  "title": "Nodary",
+  "description": "Linked-document workspace for teams: AI agents read and write docs, sheets, boards and reviews.",
+  "version": "1.2.0",
+  "websiteUrl": "https://nodary.ai/docs/mcp",
+  "icons": [
+    {
+      "src": "https://nodary.ai/brand/nodary-mark-96.png",
+      "mimeType": "image/png",
+      "sizes": ["96x96"]
+    },
+    {
+      "src": "https://nodary.ai/apple-icon",
+      "mimeType": "image/png",
+      "sizes": ["180x180"]
+    },
+    {
+      "src": "https://nodary.ai/icon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": ["any"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://nodary.ai/api/mcp"
+    }
+  ]
+}
